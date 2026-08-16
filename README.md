@@ -3,8 +3,8 @@
 A lightweight, CLI-based Contact Management System built in C++ that demonstrates efficient data structures, incremental sorting, and logarithmic searching algorithms.
 
 ## 📌 Features
-- **Incremental Sorting ($O(n)$):** Maintains an alphabetically sorted contact list using **Insertion Sort** upon every new entry.
-- **Logarithmic Search ($O(\log n)$):** Fast contact retrieval using **Binary Search** over sorted data.
+- **Incremental Sorting (O(n)):** Maintains an alphabetically sorted contact list using **Insertion Sort** upon every new entry.
+- **Logarithmic Search (O(log n)):** Fast contact retrieval using **Binary Search** over sorted data.
 - **CLI Interface:** Clean menu-driven console interface for seamless user interaction.
 - **Memory Efficient:** Uses dynamic memory allocations via C++ Standard Library structures (`std::vector`, `std::string`).
 
